@@ -1,5 +1,5 @@
 # Demo-respository
 Demo Repository
 <br>
-Author - Akshay Bangera
+Author - Akshay Bangera (SJEC Aero)
 </br>
